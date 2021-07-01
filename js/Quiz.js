@@ -36,7 +36,7 @@ class Quiz {
     background("yellow");
 
     //write code to show a heading for showing the result of Quiz
-    textSize(50);
+    textSize(30);
     text("quizResult",150,200);
 
     //call getContestantInfo( ) here
